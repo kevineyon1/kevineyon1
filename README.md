@@ -1,11 +1,12 @@
 # HI, I'M eyon
 
 <h2 align="center">About me :monkey:</h2>
-<h4 align="center">Profile stats </h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=kevineyon1&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
-<h2 align="center">Github stats :bar_chart:</h2>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevineyon1&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+<h4 align="right">Profile stats </h4>
+<p align="right"><img src="https://github-readme-stats.vercel.app/api?username=kevineyon1&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
+
+<h2 align="left">Github stats :bar_chart:</h2>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevineyon1&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
 <h2 align="center">You can reach me at :alien:</h2>
 
