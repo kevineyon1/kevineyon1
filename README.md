@@ -2,7 +2,7 @@
 
 <h2 align="center">About me :monkey:</h2>
 <p>
-<h4 align="centegr">Profile stats </h4>
+<h4 align="center">Profile stats </h4>
 
 <p align="center">
   <a href="https://github.com/Nama18/"><img src="https://github-readme-stats.vercel.app/api?username=Nama18&count_private=true&theme=algolia&show_icons=true" height="160" /></a>
