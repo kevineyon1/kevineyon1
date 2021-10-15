@@ -25,7 +25,7 @@
  </a>
 
   <a href="kevingideon123@gmail.com" target="blank">
-  <img align="center" alt="Pramod's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" /> &nbsp; &nbsp;
+  <img align="center" alt="Pramod's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" /> &nbsp; &nbsp;
  </a>
 
   <br/>
