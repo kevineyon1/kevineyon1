@@ -3,11 +3,13 @@
 <h2 align="center">About me :monkey:</h2>
 <p>
 <h4 align="left">Profile stats </h4>
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=kevineyon1&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
 
-<h2 align="right">Github stats :bar_chart:</h2>
-<p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevineyon1&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+<p>
+ <img src="https://github-readme-stats.vercel.app/api?username=kevineyon1&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevineyon1&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" />
 </p>
+
+
 <h2 align="center">You can reach me at :alien:</h2>
 
 <p align="center">
