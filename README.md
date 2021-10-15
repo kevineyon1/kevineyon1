@@ -1,14 +1,11 @@
-# You can call me eyon
+# HI, I'M eyon
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <h2 align="center">About me :monkey:</h2>
 <h4 align="center">Profile stats </h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=kevineyon1&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
-
-
 <h2 align="center">Github stats :bar_chart:</h2>
-
-
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevineyon1&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
 <h2 align="center">You can reach me at :alien:</h2>
@@ -46,4 +43,5 @@
     <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Angel Santiago Jaime Zavala's YouTube Channel" height="30" width="30">
   </a>
 </p>
+
 
