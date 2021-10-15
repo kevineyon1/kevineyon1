@@ -2,10 +2,10 @@
 
 <h2 align="center">About me :monkey:</h2>
 <p>
-<h4 align="center">&nbsp &nbsp Profile stats </h4>
+<h4 align="center">Profile stats </h4>
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=kevineyon1&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" height="160"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=kevineyon1&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" height="140"/>
  &nbsp &nbsp
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevineyon1&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" height="160"/>
 </p>
