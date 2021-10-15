@@ -1,7 +1,7 @@
 # Kevin Eyon
 
 <h2 align="center">About me</h2>
-<h4 align="center">Profile stats :musical_keyboard:</h4>
+<h4 align="center">Profile stats </h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=kevineyon1&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
 
@@ -11,12 +11,12 @@
 <h2 align="center">Github stats :bar_chart:</h2>
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevineyon1&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
 <h2 align="center">You can reach me at :alien:</h2>
 
 <p align="center">
-  <a href="https://dev.to/anhello">
+  <a href="https://dev.to/kevineyon1">
     <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Angel Santiago Jaime Zavala's DEV Profile" height="30" width="30">
   </a>
 
