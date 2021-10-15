@@ -1,5 +1,4 @@
 # HI, I'M eyon
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <h2 align="center">About me :monkey:</h2>
 <h4 align="center">Profile stats </h4>
