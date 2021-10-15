@@ -4,7 +4,7 @@
 <p>
 <h4 align="left">Profile stats </h4>
 
-<p align="center">
+<p align="">
  <img src="https://github-readme-stats.vercel.app/api?username=kevineyon1&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats"/>
  &nbsp
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevineyon1&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" />
